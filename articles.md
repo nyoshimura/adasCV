@@ -22,20 +22,19 @@
     Label is six polynomial coefficients (a,b, c in <img src="http://www.sciweavers.org/tex2img.php?eq=a%7Bx%7D%5E2%2Bbx%2Bc&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="a{x}^2+bx+c" width="107" height="19" /> of left/right lane).
     To increase data at curve, rotation is applied for augmentation.
     <br>
-    (<a href="https://twitter.com/ysmrnbt/status/1021197056893902848">Tweet</a>)
+    (<a href="https://twitter.com/ysmrnbt/status/1021197056893902848">JP Tweet</a>)
     </td>  
   </tr>
   <tr>
   <td width="30%" align=center><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-2-3ba559b5c5af">Lane Detection with Deep Learning (Part 2)
-  <br><br>
+  <br>
   <img src="https://cdn-images-1.medium.com/max/1000/1*0Eg4sdSjVJCaZzFNdwJ9JA.png" align="center" border="0" width="300" />
-  ![]()
   </td>
 
   <td colspan=2 align=center>Blog post on <b>towardsdatascience.com</b>.
   Predicting polynomial coefficients is not so robust using CNN + Fully Connected layers, so switched to use semantic segmentation approach. Training dataset is 12764 images incl. augmented(rotated or flipped) images, input size is 80x160x3, and SegNet-based architecture is used. Inference speed is 25fps w/ GPU (5.5fps w/o GPU) and detection result is improved, but left/right boundaries are not consistent yet.
   <br>
-  (<a href="https://twitter.com/ysmrnbt/status/1021221409425539073?ref_src=twsrc%5Etfw">Tweet</a>)
+  (<a href="https://twitter.com/ysmrnbt/status/1021221409425539073?ref_src=twsrc%5Etfw">JP Tweet</a>)
   </td>
   </tr>
   <tr>
