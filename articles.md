@@ -12,7 +12,7 @@
   </tr>
 
   <tr>
-    <td><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7">Lane Detection with Deep Learning (Part 1)
+    <td width="30%" align=center><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7">Lane Detection with Deep Learning (Part 1)
     <br>
     <img src="https://cdn-images-1.medium.com/max/1600/1*zx73GA3OTXtXietEMNDXDQ.png" align="center" border="0" width="300" />
     </td>
@@ -26,7 +26,7 @@
     </td>  
   </tr>
   <tr>
-  <td><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-2-3ba559b5c5af">Lane Detection with Deep Learning (Part 2)
+  <td width="30%" align=center><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-2-3ba559b5c5af">Lane Detection with Deep Learning (Part 2)
   <br><br>
   <img src="https://cdn-images-1.medium.com/max/1000/1*0Eg4sdSjVJCaZzFNdwJ9JA.png" align="center" border="0" width="300" />
   ![]()
@@ -39,11 +39,11 @@
   </td>
   </tr>
   <tr>
-    <td><b>Paper</td>
+    <td width="30%" align=center><b>Paper</td>
     <td align=center></td>
   </tr>
   <tr>
-    <td>Deep Learning Lane Marker Segmentation From Automatically Generated Labels</td>
+    <td width="30%" align=center>Deep Learning Lane Marker Segmentation From Automatically Generated Labels</td>
     <td align=center>WIP</td>
   </tr>
 </table>
