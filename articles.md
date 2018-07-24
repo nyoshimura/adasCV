@@ -5,14 +5,17 @@
     <td></td>
     <td colspan=2 align=center>Summary</td>
   </tr>
+
   <tr>
     <td align=center><b>Blog</td>
     <td align=center>English</td>
     <td align=center>Tweet</td>
   </tr>
+
   <tr>
-    <td width="25%">[Lane Detection with Deep Learning (Part 1)](https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7)
-    ![](https://cdn-images-1.medium.com/max/1600/1*zx73GA3OTXtXietEMNDXDQ.png)
+    <td width="25%"><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7">Lane Detection with Deep Learning (Part 1)
+    <br><br>
+    <img src="https://cdn-images-1.medium.com/max/1600/1*zx73GA3OTXtXietEMNDXDQ.png" align="center" border="0" width="300" />
     </td>
     <td align=center width="35%">Blog post on <b>towardsdatascience.com</b>.
     Traditional approach for lane detection is highly depending on camera spec or mounting position, available in limited situations, and quite slow (4.5fps).
@@ -25,9 +28,10 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
   </tr>
   <tr>
-  <td width="25%">[Lane Detection with Deep Learning (Part 2)](https://towardsdatascience.com/lane-detection-with-deep-learning-part-2-3ba559b5c5af)
+  <td width="25%"><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-2-3ba559b5c5af">Lane Detection with Deep Learning (Part 2)
   <br><br>
-  ![](https://cdn-images-1.medium.com/max/1000/1*0Eg4sdSjVJCaZzFNdwJ9JA.png)
+  <img src="https://cdn-images-1.medium.com/max/1000/1*0Eg4sdSjVJCaZzFNdwJ9JA.png" align="center" border="0" width="300" />
+  ![]()
   </td>
 
   <td align=center width="35%">Blog post on <b>towardsdatascience.com</b>.
