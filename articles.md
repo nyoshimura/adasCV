@@ -12,7 +12,7 @@
   </tr>
 
   <tr>
-    <td  rowspan=2><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7">Lane Detection with Deep Learning (Part 1)
+    <td><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7">Lane Detection with Deep Learning (Part 1)
     <br><br>
     <img src="https://cdn-images-1.medium.com/max/1600/1*zx73GA3OTXtXietEMNDXDQ.png" align="center" border="0" width="300" />
     </td>
@@ -21,12 +21,9 @@
     To build deep neural network, driving data was collected by smart-phone and labeling was done by old-CV algorithms + manually correction.
     Label is six polynomial coefficients (a,b, c in <img src="http://www.sciweavers.org/tex2img.php?eq=a%7Bx%7D%5E2%2Bbx%2Bc&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="a{x}^2+bx+c" width="107" height="19" /> of left/right lane).
     To increase data at curve, rotation is applied for augmentation.
+    <br>
+    (<a href="https://twitter.com/ysmrnbt/status/1021197056893902848">Tweet</a>)
     </td>  
-  </tr>
-  <tr>
-  <td colspan=2>
-  <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">従来のレーン認識はカメラのFOV, 取り付け位置などHWへの依存が強く、カーブや道路の傷で誤認識しやすく、処理が重い。ので、CNN使おうと考えたけどデータセット作り意外と大変だったぜというおはなし。2へ続く。<br><br>“Lane Detection with Deep Learning (Part 1)” by <a href="https://twitter.com/MVirgs44?ref_src=twsrc%5Etfw">@MVirgs44</a> <a href="https://t.co/f3yFA4mR8n">https://t.co/f3yFA4mR8n</a></p>&mdash; ysmrnbt (@ysmrnbt) <a href="https://twitter.com/ysmrnbt/status/1021197056893902848?ref_src=twsrc%5Etfw">July 23, 2018</a></blockquote>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
   </tr>
   <tr>
   <td width="25%"><a href="https://towardsdatascience.com/lane-detection-with-deep-learning-part-2-3ba559b5c5af">Lane Detection with Deep Learning (Part 2)
