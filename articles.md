@@ -34,7 +34,7 @@
   <td colspan=2 align=center>Blog post on <b>towardsdatascience.com</b>.
   Predicting polynomial coefficients is not so robust using CNN + Fully Connected layers, so switched to use semantic segmentation approach. Training dataset is 12764 images incl. augmented(rotated or flipped) images, input size is 80x160x3, and SegNet-based architecture is used. Inference speed is 25fps w/ GPU (5.5fps w/o GPU) and detection result is improved, but left/right boundaries are not consistent yet.
   <br>
-  (<a href="https://twitter.com/ysmrnbt/status/1021221409425539073?ref_src=twsrc%5Etfw">JP Tweet</a>)
+  (<a href="https://twitter.com/ysmrnbt/status/1021221409425539073?ref_src=twsrc%5Etfw">JP Tweet</a>, <a href="https://github.com/mvirgo/MLND-Capstone">Github source code</a>)
   </td>
   </tr>
   <tr>
