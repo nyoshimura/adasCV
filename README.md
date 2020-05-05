@@ -64,9 +64,20 @@
 
 ## 失業数は数値目標に加えるべき
 
-| 自殺と失業の相関 | 推定失業数と自殺数 | 
+以下2つのデータから失業数の増加を推定しました:
+* [人口動態統計に基づく自殺死亡数](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/jisatsu/jinkoudoutai-jisatsusyasu.html)
+* [労働力調査 長期時系列データ](https://www.stat.go.jp/data/roudou/longtime/03roudou.html#hyo_1)
+
+| (年間)自殺数と失業数の相関 | (年間)推定失業数と自殺数 | 
 | :--- | :---: | 
 | <img src="./img/suiside-jobloss-correlation.png" width="500"> | <img src="./img/suiside-predict.png" width="500"> | 
+
+月毎の失業数から指数近似した場合(最悪のケース)、2020年の失業数は2019年より10万4千人多くなります。線形近似した関数から自殺数を推定すると、2020年は2019年より6415人多くなります。これは1日17.5人増える計算になります。緊急事態宣言発令からこの増加が発生していると仮定して自殺増加数を推定したプロットが以下です:
+
+<img src="./img/covid19death-vs-jobloss-dependent-suiside.png" width="500">
+
+covid19による死者数も重ねました。現状はまだcovid19による死者数が上回っています。しかしいつまでも緊急事態宣言を続けていてはいずれ自殺者数が上回ります。この数字を無視して緊急事態の宣言・解除をするのはいささか乱暴に思われます。
+
 
 ## わたしたちにできること
 * 地域ごとの倍化時間可視化による感染爆発リスクの監視
